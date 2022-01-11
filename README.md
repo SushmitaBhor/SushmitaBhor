@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SushmitaBhor
-- 👀 I’m interested in ReactJs and FrontEnd Developement
-- 🌱 I’m currently learning ReactJS
+- Software Developer 
+- Working on flutter projects
 - 📫 How to reach me https://www.linkedin.com/in/sushmitabhor/
 
 <!---
